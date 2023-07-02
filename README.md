@@ -1,4 +1,4 @@
-# "Counting Colonies of Microbiome Using Deep Learning, Yolo v8"
+# "Counting Colonies of Microbiome Using Deep Learning, YOLO v8"
 
 장원경, 조성진, 박성호, 최신욱
 
